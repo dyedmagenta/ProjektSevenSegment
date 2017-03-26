@@ -1,4 +1,4 @@
-##SevenSegmenTrash
+<h1>SevenSegmenTrash</h1>
 
 User Control for Winforms.
 I've written this very quickly for school project.
